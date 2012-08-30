@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="eu" lang="eu-ES">
+  <head>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+    <meta name="author" content="haran" />
+    <meta name="generator" content="haran" />
+
+    <!-- Navigational metadata for large websites (an accessibility feature): -->
+    <link rel="top"      href="./index.html" title="Homepage" />
+    <link rel="up"       href="./index.html" title="Up" />
+    <link rel="first"    href="./index.html" title="First page" />
+    <link rel="previous" href="./index.html" title="Previous page" />
+    <link rel="next"     href="./index.html" title="Next page" />
+    <link rel="last"     href="./index.html" title="Last page" />
+    <link rel="toc"      href="./index.html" title="Table of contents" />
+    <link rel="index"    href="./index.html" title="Site map" />
+
+    <link rel="stylesheet" type="text/css" href="./gila-screen.css" media="screen" title="Gila (screen)" />
+    <link rel="stylesheet" type="text/css" href="./gila-print.css" media="print" />
+
+    <title>Lemoako Harrobi Futbol Erakundea </title>
+    <style type="text/css">
+<!--
+.style1 {color: #C1FF64}
+-->
+    </style>
+</head>
+
+  <body>
+    <!-- For non-visual user agents: -->
+      <div id="top"><a href="#main-copy" class="doNotDisplay doNotPrint">Skip to main content.</a></div>
+
+    <!-- ##### Header ##### -->
+
+    <div id="header">
+      <h1 class="headerTitle">
+        <a href="./index" title="Browse to homepage">Lemoako <span>Harrobi</span> Futbol <span>Erakundea</span></a>
+      </h1>
+
+      <div class="subHeader">
+        <span class="doNotDisplay">Navigation: </span>
+        <a href="./index.html">Direktiba</a> |
+        <a href="./index.html">Jokalariak</a> |
+        <a href="./index.html">Helburuak</a> 
+      </div>
+    </div>
+
+    <div id="side-bar">
+      <!-- ##### Left Sidebar ##### -->
+      <div class="leftSideBar">
+        <p class="sideBarTitle">Web-ean interesgarria</p>
+        <ul>
+          <li><a href="http://zebixe.com">Zebixe</a></li>
+        </ul>
+        <p class="sideBarTitle">Iragarkiak</p>
+        <ul>
+          <li>
+	    <a href="http://www.lemoa.net/eu-ES/Orrialdeak/default.aspx" alt="Lemoako udala">
+	      <img src="lemoa_logo.png"
+	    </a>
+	  </li>
+        </ul>
+        <p class="sideBarTitle">Komentarioak</p>
+        <span class="sideBarText">
+          Komentarioak eta kritikak ondo artuak izango dira <a href="mailto:iradokizunak@lhft.org" title="Email form">emailez</a>.
+        </span>
+      </div>
+      <!-- ##### Right Sidebar ##### -->
+
+      <div class="rightSideBar">
+        <p class="sideBarTitle">Berriak</p>
+        <div class="sideBarText"><strong>2012.eko Abuztuak 27</strong><br />
+	  Zabalik dago 2012-2013 denboraldirako izen ematea. Izena emateko Magurekin kontaktatu
+	</div>
+
+        <div class="sideBarText"><strong>2012.eko Uztailak 25</strong><br />
+          Sortu da Lemoako gazteentzako futbol talde berria!
+	</div>
+
+        <p class="sideBarTitle">Balidazioa</p>
+
+        <div class="sideBarText">Balidatu orri honen <a href="http://validator.w3.org/check/referer">XHTML</a>
+          eta <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a>-a.</div>
+      </div>
+
+    </div>
+
+    <!-- ##### Main Copy ##### -->
+
+    <div id="main-copy">
+      :-)main-copy
+    </div>
+    
+    <!-- ##### Footer ##### -->
+
+    <div id="footer">
+      <div class="doNotPrint">
+        <a href="./index.html">Iradokizunak</a> 
+        <br />
+		<!--This theme is free for distriubtion,  so long as  link to openwebdesing.org and www.best10webhosting.net  stay on the theme-->
+    <span class="nocopyright">Courtesy of <a href="http://www.openwebdesign.org" target="_blank">Open Web Design</a> &amp; 
+<a href="http://zebixe.com" target="_blank">Zebixe</a> </span></div>
+
+      <div>
+        Copyright &copy; 2012, LHFT
+      </div>
+    </div>
+  </body>
+</html>
