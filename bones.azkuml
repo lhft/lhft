@@ -38,45 +38,43 @@
       <h1 class="headerTitle">
         <a href="./index" title="Browse to homepage">Lemoako <span>Harrobi</span> Futbol <span>Erakundea</span></a>
       </h1>
-
       <div class="subHeader">
         <span class="doNotDisplay">Navigation: </span>
-        <a href="./index.html">Direktiba</a> |
+        <!--<a href="./index.html">Direktiba</a> |
         <a href="./index.html">Jokalariak</a> |
-        <a href="./index.html">Helburuak</a> 
+        <a href="./index.html">Helburuak</a> -->
+	<a href="index_es.html">Castellano</a>
       </div>
     </div>
 
     <div id="side-bar">
       <!-- ##### Left Sidebar ##### -->
       <div class="leftSideBar">
-        <p class="sideBarTitle">Web-ean interesgarria</p>
-        <ul>
-          <li><a href="http://zebixe.com">Zebixe</a></li>
-        </ul>
         <p class="sideBarTitle">Iragarkiak</p>
         <ul>
           <li>
-	    <a href="http://www.lemoa.net/eu-ES/Orrialdeak/default.aspx" alt="Lemoako udala">
-	      <img src="lemoa_logo.png"
+	    <a href="http://www.lemoa.net/eu-ES/Orrialdeak/default.aspx" >
+	      <img src="lemoa_logo.png" alt="Lemoako udala"/>
+	    </a>
+	  </li>
+	  <li>
+	    <a href="http://restauranteamboto.com" >
+	      <img src="amboto.png" alt="Restaurante Amboto"/>
+	    </a>
+	  </li>
+	  <li style="background-color:#000;">
+	    <a href="http://imprentabikain.com" >
+	      <img src="logo-bikain.png" alt="Imprenta bikain"/>
 	    </a>
 	  </li>
         </ul>
-        <p class="sideBarTitle">Komentarioak</p>
-        <span class="sideBarText">
-          Komentarioak eta kritikak ondo artuak izango dira <a href="mailto:iradokizunak@lhft.org" title="Email form">emailez</a>.
-        </span>
       </div>
       <!-- ##### Right Sidebar ##### -->
 
       <div class="rightSideBar">
         <p class="sideBarTitle">Berriak</p>
-        <div class="sideBarText"><strong>2012.eko Abuztuak 27</strong><br />
-	  Zabalik dago 2012-2013 denboraldirako izen ematea. Izena emateko Magurekin kontaktatu
-	</div>
-
         <div class="sideBarText"><strong>2012.eko Uztailak 25</strong><br />
-          Sortu da Lemoako gazteentzako futbol talde berria!
+          Athletic - Osasuna partidarako sarrera 2 eta Amboto jatetxean afari 2 lortzeko aukera. Erosi gure errifak!
 	</div>
 
         <p class="sideBarTitle">Balidazioa</p>
@@ -86,23 +84,22 @@
       </div>
 
     </div>
-
-    <!-- ##### Main Copy ##### -->
-
-    <div id="main-copy">
-      :-)main-copy
-    </div>
     
+    <!-- ##### Main Copy ##### -->
+    
+    <div id="main-copy">
+      
+    </div>
     <!-- ##### Footer ##### -->
-
+    
     <div id="footer">
       <div class="doNotPrint">
-        <a href="./index.html">Iradokizunak</a> 
+        Iradokizunak: iradokizunak@lemoakoharrobife.org
         <br />
-		<!--This theme is free for distriubtion,  so long as  link to openwebdesing.org and www.best10webhosting.net  stay on the theme-->
-    <span class="nocopyright">Courtesy of <a href="http://www.openwebdesign.org" target="_blank">Open Web Design</a> &amp; 
-<a href="http://zebixe.com" target="_blank">Zebixe</a> </span></div>
-
+	<!--This theme is free for distriubtion,  so long as  link to openwebdesing.org and www.best10webhosting.net  stay on the theme-->
+	<span class="nocopyright">Courtesy of <a href="http://www.openwebdesign.org" target="_blank">Open Web Design</a> &amp; 
+	  <a href="http://zebixe.com" target="_blank">Zebixe</a> </span></div>
+      
       <div>
         Copyright &copy; 2012, LHFT
       </div>
