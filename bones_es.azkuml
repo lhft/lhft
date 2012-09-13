@@ -1,12 +1,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="eu" lang="eu-ES">
   <head>
     <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
     <meta name="author" content="haran" />
     <meta name="generator" content="haran" />
-
     <!-- Navigational metadata for large websites (an accessibility feature): -->
     <link rel="top"      href="./index.html" title="Homepage" />
     <link rel="up"       href="./index.html" title="Up" />
@@ -18,16 +16,13 @@
     <link rel="index"    href="./index.html" title="Site map" />
     <link rel="stylesheet" type="text/css" href="./gila-screen.css" media="screen" title="Gila (screen)" />
     <link rel="stylesheet" type="text/css" href="./gila-print.css" media="print" />
-
     <title>Lemoako Harrobi Futbol Klub</title>
 </head>
-
+  
   <body>
     <!-- For non-visual user agents: -->
       <div id="top"><a href="#main-copy" class="doNotDisplay doNotPrint">Skip to main content.</a></div>
-
     <!-- ##### Header ##### -->
-
     <div id="header">
       <h1 class="headerTitle">
         <a href="./index" title="Browse to homepage">Lemoako <span>Harrobi</span> Futbol <span>Klub</span></a>
@@ -40,7 +35,6 @@
 	<a href="index.html">Euskera</a>
       </div>
     </div>
-
     <div id="side-bar">
       <!-- ##### Left Sidebar ##### -->
       <div class="leftSideBar">
@@ -59,6 +53,11 @@
 	  <li style="background-color:#000;">
 	    <a href="http://imprentabikain.com" >
 	      <img src="logo-bikain.png" alt="Imprenta bikain"/>
+	    </a>
+	  </li>
+	  <li>
+	    <a href="http://abgarbiketak.com" >
+	      <img src="garbiketa_logo.png" alt="A.B. Garbiketak"/>
 	    </a>
 	  </li>
         </ul>
