@@ -26,13 +26,15 @@
     <div id="header">
       <h1 class="headerTitle">
         <a href="./index" title="Browse to homepage">Lemoako <span>Harrobi</span> Futbol <span>Klub</span></a>
+	<a class="language" href="index.html">Euskera</a>
       </h1>
       <div class="subHeader">
         <span class="doNotDisplay">Navigation: </span>
-        <!--<a href="./index.html">Direktiba</a> |
-        <a href="./index.html">Jokalariak</a> |
-        <a href="./index.html">Helburuak</a> -->
-	<a href="index.html">Euskera</a>
+	<a href="indexes.html">Noticias</a>
+	<a href="organizationes.html">Directiva</a>
+	<a href="facilitieses.html">Instalaciones</a>
+	<a href="goalses.html">Objetivos</a>
+	<a href="structurees.html">Estructura deportiva</a>
       </div>
     </div>
     <div id="side-bar">
