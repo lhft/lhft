@@ -44,7 +44,7 @@ acronym, .titleTip {  border-bottom: 1px dotted rgb(168,140,83);  cursor: help; 
 .leftSideBar {  width: 12.5em;  float: left;  clear: left;}
 .leftSideBar .sideBarTitle {  color: rgb(64,64,64);  background-color: rgb(230,223,207);  font-weight: bold;  margin: 0;  padding: 0.8ex 1ex;}
 .leftSideBar ul {  list-style-type: none;  list-style-position: outside;  margin: 0 0 1em 0;  padding: 0;}
-.leftSideBar li { margin: 1ex; padding: 0 0 0 0.75ex;}
+.leftSideBar li { margin:0 1ex; padding: 0 0 0 0.75ex;}
 .leftSideBar a {  color: rgb(166,140,83);  background-color: transparent;  text-decoration: none;}
 .leftSideBar a:hover {  color: rgb(64,64,64);  background-color: transparent;  text-decoration: none;}
 .leftSideBar .sideBarText {  color: rgb(166,140,83);  background-color: transparent;  line-height: 1.25em;  margin: 1ex 0.25ex 1.5em 0.75ex;  padding: 0;  display: block;}
